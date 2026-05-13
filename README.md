@@ -7,4 +7,4 @@ Laptop Price Prediction System
 
 ## 🌐 Live Demo
 
-[Open Website](https://ml-predictx.streamlit.app)
+[Open Website](https://raj-predictx.streamlit.app)
